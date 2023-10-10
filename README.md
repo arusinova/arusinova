@@ -1,4 +1,4 @@
-### Hello! 👋
+# Hello! 👋
 
 My name is Anna Rusinova, and I am a third-year student pursuing a BSc in Computing Science at Simon Fraser University.
 
