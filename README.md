@@ -16,6 +16,8 @@ Version Control (Git) · React · Node.js · Jest · Linux · CMake
 
 **✸ Methodologies & Tools:**  <br>
 Agile methodologies · Figma · Object-Oriented Programming (OOP) · REST API · UML Diagrams  <br>
+
+**✸ Design & UX:**  <br>
 Wireframing · UX/UI Prototyping · User Flows · User-Centered Design · Usability Testing
 
 ## Education
