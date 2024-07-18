@@ -1,5 +1,3 @@
-# Anna Rusinova
-
 ## Hi there! 👋🏼
 
 My name is Anna Rusinova, and I am a fourth-year student pursuing a BSc in Computing Science at Simon Fraser University. I thrive in dynamic and innovative tech environments and am always eager to take on new challenges.
